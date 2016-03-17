@@ -1,6 +1,11 @@
 # Project Name
 
-TODO: Write a project description
+Tmux random name session generator, inspired by Docker.
+This is small plugin that will generate random session name every time you open new Terminal session or reconnect to 
+prevousely disconnected sessions.
+
+![alt tag](https://github.com/lanox/tmux.git/screenshoot/tmux-session-generator.png)
+![alt tag](https://github.com/lanox/tmux.git/screenshoot/tmux-session-generator1.png)
 
 ## Installation
 
@@ -8,10 +13,10 @@ Script is written in Python3. So you may need to setup pyenv or get python3 from
 
 iTerm2 Specific.
 
-1) Clone this repository.
-2) Preferences -> Profiles -> General
-    Under Command Section:
-      Send test at start: Add tmux.py
+1. Clone this repository.
+2. Preferences -> Profiles -> General
+   * Under Command Section:
+   * Send test at start: Add tmux.py
 
 This will start tmux.py everytime you open new window.
 
