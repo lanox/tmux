@@ -30,9 +30,3 @@ If Docker can generate random names every time it creates container so can tmux.
 ## Credits
 
 Inspired by Docker.
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
