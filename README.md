@@ -25,7 +25,7 @@ Open New terminal session.
 
 ## Inspired
 
-If Docker can generate random names every time it creates container so can tmux.
+If Docker can generate random names every time it creates container so can tmux when creating new session.
 
 ## Credits
 
