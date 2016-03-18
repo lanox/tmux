@@ -4,7 +4,9 @@ Tmux random name session generator, inspired by Docker.
 This is small plugin that will generate random session name every time you open new Terminal session or it will reconnect your previously disconnected sessions.
 
 ![alt tag](https://github.com/lanox/tmux/blob/master/screenshoots/tmux-session-generator.png)
+As you can see bottom left corenr we have session called **clever**
 ![alt tag](https://github.com/lanox/tmux/blob/master/screenshoots/tmux-session-generator1.png)
+And in this one we have session name called **tender**
 
 ## Installation
 
